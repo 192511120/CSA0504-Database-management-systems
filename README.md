@@ -1,1 +1,0 @@
-# CSA0504-Database-management-systems
